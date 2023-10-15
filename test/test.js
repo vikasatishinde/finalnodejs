@@ -5,4 +5,3 @@ is "hello world"
 request(app).get('/').expect('Hello Jenkins', done);
 });
 });
-
